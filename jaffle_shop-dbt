@@ -1,0 +1,6 @@
+sources:
+- name: jaffle_shop
+database: data-engineering-493a-2
+schema: data_1
+tables:
+- name: customers
